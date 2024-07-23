@@ -9,14 +9,17 @@ This project focuses on the automated deployment of a three-tier web application
 - **Data Tier:** A MongoDB database for data storage and management.
 
 
-The Bash script automates system updates, Nginx installation and configuration as a reverse proxy, Node.js setup, application deployment, and dependency management.
+ ![1_WggW_vCVv0trIbBfMGnZ1g](https://github.com/user-attachments/assets/c1a9af2a-4a29-4000-ad5f-2b3bea7e081e) 
+ <br>
+ 
+ The Bash script automates system updates, Nginx installation and configuration as a reverse proxy, Node.js setup, application deployment, and dependency management.
 
  This approach ensures a **consistent and efficient deployment process**, reducing **manual effort** and potential errors, while maintaining a clear separation of concerns across the three tiers.
 
 
 
 
-# configure the database 
+# Configure the database 
 ```bash 
 #!/bin/bash
 
