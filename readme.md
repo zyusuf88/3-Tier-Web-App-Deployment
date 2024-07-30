@@ -109,7 +109,7 @@ cd ~/apps/test-app/app
 echo in app folder
 
 echo set db_host env var
-#put your private ip address of your databse instance here: 
+#put your private ip address of your database instance here: 
 export DB_HOST=mongodb://<privateIpaddress>/posts 
 echo  db_host env var done.
 
